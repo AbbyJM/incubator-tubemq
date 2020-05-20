@@ -77,4 +77,12 @@
 | JIRA | Summary | Priority |
 |:---- |:---- | :--- |
 |[TUBEMQ-12](https://issues.apache.org/jira/browse/TUBEMQ-12)  |Change to use Apache License V2   |  Major |
-|[TUBEMQ-130](https://issues.apache.org/jira/browse/TUBEMQ-130)  |Generate CHANGES.md and DISCLAIMER-WIP   |  Major |
+
+### SUB-TASK:
+| JIRA | Summary | Priority |
+|:---- |:---- | :--- |
+|[TUBEMQ-130](https://issues.apache.org/jira/browse/TUBEMQ-130) |Generate CHANGES.md and DISCLAIMER-WIP   |  Major |
+|[TUBEMQ-133](https://issues.apache.org/jira/browse/TUBEMQ-133) |Add Apache parent pom |  Major |
+|[TUBEMQ-134](https://issues.apache.org/jira/browse/TUBEMQ-134) |add maven-source-plugin for generate source jar|  Major |
+|[TUBEMQ-135](https://issues.apache.org/jira/browse/TUBEMQ-135) |Refactoring all pom.xml|  Major |
+|[TUBEMQ-136](https://issues.apache.org/jira/browse/TUBEMQ-136) |Add LICENSE/NOTICE/DISCLAIMER-WIP to binary package|  Major |
